@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/precious-ugwuadu/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/precious-ugwuadu/azure-network-protocols)
  - <b>Proton VPN(Virtual Private Network)</b>
-  - [Proton VPN: Installation](https://github.com/precious-ugwuadu/configure-ad) 
+  - [Proton VPN: Installation](https://github.com/Precious-Ugwuadu/Install-vpn) 
 
 <h2>🤳Connect with me:</h2>
 

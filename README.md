@@ -12,7 +12,7 @@
  - <b>Proton VPN(Virtual Private Network)</b>
    - [Proton VPN: Installation](https://github.com/Precious-Ugwuadu/Install-vpn) 
   - <b>DNS (Domain Name System)</b>
-   - [DNS: Practice](https://github.com/Precious-Ugwuadu/Install-vpn) 
+    - [DNS: Practice](https://github.com/Precious-Ugwuadu/Install-vpn) 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="precious | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

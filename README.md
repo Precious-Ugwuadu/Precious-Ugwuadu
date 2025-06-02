@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/precious-ugwuadu/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/precious-ugwuadu/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/precious-ugwuadu/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Precious-Ugwuadu/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/precious-ugwuadu/azure-network-protocols)
  - <b>Proton VPN(Virtual Private Network)</b>
   - [Proton VPN: Installation](https://github.com/Precious-Ugwuadu/Install-vpn) 

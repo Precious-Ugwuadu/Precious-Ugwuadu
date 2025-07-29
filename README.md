@@ -14,7 +14,9 @@
   - <b>DNS (Domain Name System)</b>
     - [Gaining Operational Clarity on DNS Architecture](https://github.com/Precious-Ugwuadu/DNS-Practice-)
   - <b>Network File Shares And Permissions </b>
-    - [Windows File Share Access Management](https://github.com/Precious-Ugwuadu/File-Sharing-and-Permission-Control/blob/main/README.md) 
+    - [Windows File Share Access Management](https://github.com/Precious-Ugwuadu/File-Sharing-and-Permission-Control/blob/main/README.md)
+  - <b>Exchange Online </b>
+    - [Exchange online Admin: Installation](https://github.com/Precious-Ugwuadu/Install-vpn)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="precious | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

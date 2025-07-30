@@ -16,7 +16,7 @@
   - <b>Network File Shares And Permissions </b>
     - [Windows File Share Access Management](https://github.com/Precious-Ugwuadu/File-Sharing-and-Permission-Control/blob/main/README.md)
   - <b>MicroSoft 365 Admin </b>
-    - [Exchange online Admin: ](https://github.com/Precious-Ugwuadu/Install-vpn)
+    - [Exchange online Admin: ]
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="precious | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

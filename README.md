@@ -1,4 +1,4 @@
-<h1>Hi, I'm Precious, a <a href="https://linkedin.com/in/precious-ugwuadu-cybersecurityanalyst">Cybersecurity Analyst</a>☺</h1>
+<h1>Hi, I'm Precious, a <a href="https://linkedin.com/in/precious-ugwuadu-cybersecurityanalyst">Technical Support Specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
